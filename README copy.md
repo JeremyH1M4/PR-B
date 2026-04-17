@@ -13,4 +13,5 @@ This might also include an animation based on that choice you made
 
  17/4/26
  - Local storage used in 'script2.js' and 'TimeTooLong.js'
- - 
+ - the completed localstorage lets the user choose a name for the javascript to store into local storage and be used later into the story line.
+ - Future addition would include a function that is distributed to javascripts that requires it with the use of local storage and 'if else' statements
